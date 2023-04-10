@@ -1,0 +1,14 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.2
+# Feature-Recorder: email
+# Filename: ntfs1-gen2.E01
+# Feature-File-Version: 1.1
+47346547	xL6@3ov.KE	^g\214\007t\344g'DF\230\230\364F\264\204xL6@3ov.KE\343\341#\275\231\014\357&\213&u\226\203\350&\227
+239767510-PDF-392	btinfo@bottomline.com	.bottomline.com btinfo@bottomline.com  Paybase Allows
+239767510-PDF-1681	info@entegrity.com	w.entegrity.com info@entegrity.com Equifax E-Banki
+239772263-PDF-1084	paul.wrenn@hicor.net	4 www.hicor.net paul.wrenn@hicor.net Mellon Global C
+239772263-PDF-1296	gcm_direct_pgh@mellon.com	n.com/inst/gcm/ gcm_direct_pgh@mellon.com National City C
+239772263-PDF-1673	mark_d_schulte@national-city.com	14 216-222-3633 mark_d_schulte@national-city.com \134(continued\134
+239776426-PDF-437	gigiw@paytec.com	55 717-506-2200 gigiw@paytec.com Politzer & Hane
+239776426-PDF-1747	ed_armstrong@stercomm.com	ingcommerce.com ed_armstrong@stercomm.com \134(continued\134
+239780882-PDF-812	patricia.engelage@umb.com	045 www.umb.com patricia.engelage@umb.com  
